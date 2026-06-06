@@ -1,0 +1,181 @@
+DRUG INFORMATION DOCUMENT
+
+DRUG NAME: Atorvastatin Calcium (Lipitor)
+DRUG CLASS: HMG-CoA Reductase Inhibitor (Statin)
+DOCUMENT TYPE: Drug Information Document
+DISEASE AREA: Cardiovascular
+PREPARED BY: Medical Information Department
+DATE: March 2023
+
+1. DESCRIPTION
+Atorvastatin calcium is a synthetic lipid-lowering agent belonging to the HMG-CoA reductase
+inhibitor class (statins). Chemical formula: [R-(R*,R*)]-2-(4-fluorophenyl)-beta,delta-dihydroxy-
+5-(1-methylethyl)-3-phenyl-4-[(phenylamino)carbonyl]-1H-pyrrole-1-heptanoic acid, calcium salt (2:1)
+
+Molecular Formula: (C33H34FN2O5)2Ca
+Molecular Weight: 1209.42 g/mol
+
+2. MECHANISM OF ACTION
+Atorvastatin is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme
+responsible for the conversion of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate,
+a precursor of sterols including cholesterol.
+
+Primary effects:
+- Reduces hepatic cholesterol synthesis
+- Upregulates LDL receptors on hepatocytes (increases LDL clearance from blood)
+- Reduces circulating LDL-C, VLDL-C, total cholesterol, triglycerides
+- Increases HDL-C modestly
+- Anti-inflammatory effects (reduces CRP)
+- Pleiotropic effects: improved endothelial function, reduced platelet aggregation
+
+3. INDICATIONS AND USAGE
+
+Approved Indications:
+3.1 Primary Hyperlipidemia and Mixed Dyslipidemia
+To reduce elevated total-C, LDL-C, apo B, TG, and non-HDL-C, and to increase HDL-C.
+
+3.2 Heterozygous Familial Hypercholesterolemia (HeFH) in Adults
+For treatment when dietary measures have not been adequate.
+
+3.3 Homozygous Familial Hypercholesterolemia (HoFH)
+As adjunct to other lipid-lowering treatments.
+
+3.4 Cardiovascular Risk Reduction
+Primary Prevention: Reduces the risk of MI, stroke, revascularization procedures in patients
+without clinically evident CHD but with multiple risk factors.
+Secondary Prevention: Reduces the risk of MI, fatal/non-fatal stroke, hospitalization for CHF,
+angina, and revascularization in patients with CHD.
+
+3.5 Pediatric Use (HeFH)
+Approved in pediatric patients 10-17 years with HeFH.
+
+4. DOSAGE AND ADMINISTRATION
+
+4.1 General Dosing
+Starting Dose:    10 or 20 mg once daily
+Usual Dose Range: 10-80 mg once daily
+Maximum Dose:     80 mg once daily
+
+Can be administered at any time of day, with or without food.
+
+4.2 Dose Selection Based on LDL-C Goal
+
+LDL-C Reduction Required | Starting Dose
+< 25%                    | 10 mg
+25-35%                   | 10-20 mg
+>= 40% (high-intensity)  | 40-80 mg
+
+High-intensity therapy (40-80 mg): Reduces LDL-C >= 50%
+Moderate-intensity therapy (10-20 mg): Reduces LDL-C 30-50%
+
+4.3 Special Populations
+
+Renal Impairment: No dose adjustment required (renal excretion is minimal)
+Hepatic Impairment: Contraindicated in active liver disease or unexplained persistent elevations
+of serum transaminases
+Elderly (>= 65 years): No dose adjustment required; use lowest effective dose
+Pediatric (10-17 years): Starting dose 10 mg/day; maximum 20 mg/day
+
+4.4 Drug Interactions Affecting Dosing
+- Cyclosporine: Atorvastatin 10 mg maximum daily dose
+- Clarithromycin, itraconazole, lopinavir/ritonavir: Atorvastatin 20 mg maximum daily dose
+- Nelfinavir: Atorvastatin 40 mg maximum daily dose
+
+5. CONTRAINDICATIONS
+- Active liver disease or unexplained persistent elevations in serum transaminases (>3x ULN)
+- Pregnancy (category X)
+- Breastfeeding
+- Known hypersensitivity to any component of the product
+
+6. WARNINGS AND PRECAUTIONS
+
+6.1 Skeletal Muscle Effects (Myopathy/Rhabdomyolysis)
+Risk increases with:
+- Higher doses (particularly 80 mg)
+- Advanced age (>= 65 years)
+- Hypothyroidism
+- Renal impairment
+- Concomitant use of strong CYP3A4 inhibitors, fibrates, or niacin
+
+Signs/Symptoms: Unexplained muscle pain, tenderness, weakness, particularly with fever or malaise.
+Action: Discontinue if CK > 10x ULN, or if myopathy suspected.
+
+6.2 Hepatic Effects
+Persistent liver enzyme elevations occur in approximately 0.7% of patients.
+Monitoring: Liver enzyme tests before initiating treatment and if signs/symptoms of liver injury appear.
+
+6.3 Immune-Mediated Necrotizing Myopathy (IMNM)
+Rare autoimmune condition associated with statin use. May persist or relapse after discontinuation.
+
+6.4 Diabetes Mellitus
+Statin use is associated with increased risk of new-onset diabetes (~10% relative risk increase).
+Benefits of statin therapy generally outweigh the risk in most patients.
+
+7. ADVERSE REACTIONS
+
+7.1 Common Adverse Events (incidence >= 2%)
+- Nasopharyngitis: 8.3%
+- Arthralgia: 6.9%
+- Diarrhea: 6.8%
+- Pain in extremity: 6.0%
+- Urinary tract infection: 5.7%
+- Dyspepsia: 4.7%
+- Nausea: 4.0%
+- Musculoskeletal pain: 3.8%
+- Myalgia: 3.5%
+- Muscle spasms: 2.8%
+
+7.2 Laboratory Abnormalities
+Creatine Kinase > 10x ULN: 0.4% with Atorvastatin vs 0.2% with placebo
+Transaminase elevations (AST/ALT > 3x ULN): 0.7%
+
+8. PHARMACOKINETICS
+
+8.1 Absorption
+Rapidly absorbed after oral administration; peak plasma concentrations achieved in 1-2 hours.
+Absolute bioavailability of atorvastatin is approximately 14% (extensive first-pass hepatic extraction).
+
+8.2 Distribution
+Mean volume of distribution: approximately 381 liters
+Plasma protein binding: >= 98%
+
+8.3 Metabolism
+Extensively metabolized by CYP3A4 to active ortho- and parahydroxylated derivatives.
+Active metabolites contribute approximately 70% of HMG-CoA reductase inhibitory activity in vivo.
+
+8.4 Elimination
+Primary route: Bile/feces (renal excretion minimal)
+Half-life of atorvastatin: approximately 14 hours
+Half-life of HMG-CoA reductase inhibitory activity: approximately 20-30 hours
+
+9. DRUG INTERACTIONS
+
+Strong CYP3A4 Inhibitors (INCREASE atorvastatin levels):
+- Itraconazole, ketoconazole: Increase AUC 5-fold
+- Clarithromycin: Increase AUC ~4-fold
+- HIV protease inhibitors (lopinavir, ritonavir, saquinavir): Increase AUC 2-6 fold
+
+Fibrates: Combination increases myopathy risk
+Niacin >= 1 g/day: Increased myopathy risk
+Colchicine: Myopathy risk (use with caution)
+Bile acid sequestrants: Reduce atorvastatin absorption (administer 2+ hours apart)
+Digoxin: Atorvastatin 80 mg increases digoxin concentrations by 20%
+Oral contraceptives: Increases AUC of norethindrone and ethinyl estradiol
+
+10. PATIENT COUNSELING INFORMATION
+- Take exactly as prescribed; do not skip doses
+- Report unexplained muscle pain, tenderness, or weakness immediately
+- Avoid large quantities of grapefruit juice (inhibits CYP3A4)
+- Avoid alcohol in excessive amounts (increases liver damage risk)
+- Effective contraception required during treatment (pregnancy Category X)
+- Regular liver function monitoring as advised by healthcare provider
+
+REFERENCES
+1. Atorvastatin [prescribing information]. New York, NY: Pfizer Inc; 2022.
+2. Grundy SM et al. 2018 AHA/ACC Cholesterol Guideline. Circulation. 2019;139(25):e1082-e1143.
+3. Collins R et al. Interpretation of the evidence for the efficacy and safety of statin therapy.
+   Lancet. 2016;388(10059):2532-2561.
+
+---
+Document Classification: Medical Information - For Healthcare Professional Use
+Version 1.3 | March 2023

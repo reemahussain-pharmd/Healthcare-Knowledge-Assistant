@@ -1,0 +1,194 @@
+CLINICAL PRACTICE GUIDELINE
+
+TITLE: Management of Hypertension in Adults
+ISSUING BODY: International Hypertension Society (IHS)
+DOCUMENT TYPE: Medical Guideline
+VERSION: 4.0 | YEAR: 2023
+DISEASE AREA: Cardiovascular / Hypertension
+
+EXECUTIVE SUMMARY
+
+Hypertension (high blood pressure) remains the most prevalent modifiable risk factor for
+cardiovascular disease, stroke, heart failure, and chronic kidney disease globally, affecting
+approximately 1.28 billion adults aged 30-79 years worldwide. These guidelines provide
+evidence-based recommendations for the detection, evaluation, and treatment of hypertension
+in adults.
+
+SECTION 1: DEFINITIONS AND CLASSIFICATION
+
+1.1 Blood Pressure Classification (Adults >= 18 years)
+
+Category                  | Systolic (mmHg)  | Diastolic (mmHg)
+Normal                    | < 120             | AND < 80
+Elevated                  | 120-129           | AND < 80
+Stage 1 Hypertension      | 130-139           | OR 80-89
+Stage 2 Hypertension      | >= 140            | OR >= 90
+Hypertensive Crisis       | > 180             | AND/OR > 120
+
+1.2 Resistant Hypertension
+Defined as blood pressure that remains above goal despite concurrent use of three antihypertensive
+medications of different classes (including a diuretic) at optimal doses.
+
+SECTION 2: DIAGNOSIS
+
+2.1 Measurement Principles
+- Two or more blood pressure measurements should be taken at each visit
+- Patient should be seated quietly for at least 5 minutes before measurement
+- Measurement in both arms recommended at initial visit; use arm with higher reading thereafter
+- Confirm diagnosis with out-of-office measurement (home BP monitoring or 24-hour ambulatory BP)
+
+2.2 White Coat Hypertension
+Clinic blood pressure >= 130/80 mmHg with out-of-office readings < 130/80 mmHg.
+Estimated prevalence: 15-30% of patients with elevated clinic BP.
+
+2.3 Masked Hypertension
+Normal clinic blood pressure (< 130/80 mmHg) but elevated out-of-office readings.
+Associated with increased cardiovascular risk; treatment threshold same as confirmed hypertension.
+
+SECTION 3: LIFESTYLE MODIFICATIONS
+
+All patients with hypertension or elevated blood pressure should be counseled on:
+
+3.1 Dietary Approaches
+- DASH (Dietary Approaches to Stop Hypertension) diet: estimated BP reduction 8-14 mmHg
+- Sodium restriction to < 1500-2300 mg/day: estimated BP reduction 2-8 mmHg
+- Increased potassium intake (3500-5000 mg/day through diet)
+- Limit alcohol: <= 1 drink/day for women, <= 2 drinks/day for men
+
+3.2 Physical Activity
+- Aerobic exercise: >= 150 minutes/week of moderate-intensity or >= 75 minutes/week vigorous
+- Estimated BP reduction: 4-9 mmHg
+- Dynamic resistance training: 2-3 days/week as adjunct to aerobic exercise
+
+3.3 Weight Management
+- Target BMI 18.5-24.9 kg/m2
+- Weight loss reduces BP approximately 1 mmHg per kg lost
+
+3.4 Tobacco Cessation
+While smoking cessation does not directly lower resting BP, it dramatically reduces overall
+cardiovascular risk and should be strongly encouraged in all hypertensive patients.
+
+SECTION 4: PHARMACOLOGICAL TREATMENT
+
+4.1 Treatment Initiation Thresholds
+
+Patient Group                          | Treatment BP Threshold
+Stage 2 Hypertension                   | >= 140/90 mmHg - initiate drug therapy
+Stage 1 Hypertension (high CV risk)    | >= 130/80 mmHg
+Stage 1 Hypertension (low CV risk)     | >= 130/80 mmHg after lifestyle modification trial
+Patients with CVD, CKD, diabetes       | >= 130/80 mmHg
+
+4.2 BP Treatment Targets
+
+Patient Population                     | Target BP
+General adults < 65 years             | < 130/80 mmHg
+Adults >= 65 years                    | < 130/80 mmHg (if tolerated)
+Frail elderly (individualized)        | < 150/90 mmHg
+Diabetes mellitus                     | < 130/80 mmHg
+Chronic kidney disease                | < 130/80 mmHg
+Post-MI / High CVD risk               | < 130/80 mmHg
+
+4.3 First-Line Antihypertensive Medications
+
+The following drug classes are recommended as first-line therapy:
+
+a) ACE Inhibitors (ACEI)
+Examples: Lisinopril 10-40 mg/day, Ramipril 2.5-10 mg/day, Enalapril 5-40 mg/day
+Preferred in: CKD with proteinuria, heart failure, post-MI, diabetes
+Contraindicated in: Pregnancy, bilateral renal artery stenosis, history of angioedema
+Monitoring: Potassium, creatinine, eGFR within 2-4 weeks of initiation
+
+b) Angiotensin Receptor Blockers (ARB)
+Examples: Losartan 50-100 mg/day, Valsartan 80-320 mg/day, Olmesartan 20-40 mg/day
+Preferred when ACEI not tolerated (e.g., cough)
+Same contraindications as ACEI; do NOT combine with ACEI (increases adverse effects)
+
+c) Calcium Channel Blockers (CCB)
+Dihydropyridines: Amlodipine 5-10 mg/day, Nifedipine XL 30-90 mg/day
+Non-dihydropyridines: Diltiazem, Verapamil (avoid in heart failure with reduced EF)
+Preferred in: Elderly, isolated systolic hypertension, angina (dihydropyridines)
+
+d) Thiazide/Thiazide-like Diuretics
+Examples: Hydrochlorothiazide (HCTZ) 12.5-25 mg/day, Chlorthalidone 12.5-25 mg/day,
+Indapamide 1.25-2.5 mg/day
+Note: Chlorthalidone and indapamide preferred over HCTZ for cardiovascular outcomes
+Monitor: Electrolytes (sodium, potassium), glucose, uric acid
+
+4.4 Combination Therapy
+Most patients with Stage 2 Hypertension require two or more agents to achieve target BP.
+
+Preferred Combinations:
+- ACEI/ARB + CCB (most commonly recommended)
+- ACEI/ARB + thiazide diuretic
+- CCB + thiazide diuretic
+- ACEI/ARB + CCB + thiazide diuretic (triple therapy)
+
+Avoid: ACEI + ARB combination (dual renin-angiotensin system blockade increases adverse events)
+
+4.5 Special Populations
+
+Elderly Patients (>= 65 years):
+- Initiate with lower doses; titrate slowly
+- Monitor for orthostatic hypotension
+- Thiazide diuretics and CCBs generally well tolerated
+- ACEI/ARB preferred if CKD or proteinuria present
+
+Patients with Diabetes:
+- ACEI or ARB preferred (renoprotective)
+- Target BP < 130/80 mmHg
+- Avoid high-dose thiazides (may worsen glycemic control)
+
+Patients with Heart Failure:
+- ACEI or ARB (or ARNI: sacubitril/valsartan) + beta-blocker + MRA
+- Loop diuretics for fluid overload
+- Avoid non-dihydropyridine CCBs in HFrEF
+
+Patients with Chronic Kidney Disease:
+- ACEI or ARB first-line (reduce proteinuria, slow progression)
+- Monitor potassium closely
+- Target < 130/80 mmHg
+
+SECTION 5: MONITORING AND FOLLOW-UP
+
+5.1 Follow-up Schedule
+- Within 1 month of initiating or changing therapy
+- Every 3 months until BP goal achieved
+- Every 6-12 months once stable
+
+5.2 Adherence Assessment
+- Medication adherence is a major cause of treatment failure
+- Use pill counts, pharmacy refill records, or serum drug levels if poor control
+- Motivational interviewing and simplified regimens improve adherence
+
+5.3 Laboratory Monitoring
+- Basic metabolic panel (electrolytes, creatinine, glucose) at baseline and after medication changes
+- Annual fasting lipid panel and fasting glucose/HbA1c
+- Urinalysis and urine albumin-to-creatinine ratio annually
+
+SECTION 6: HYPERTENSIVE URGENCY AND EMERGENCY
+
+6.1 Hypertensive Urgency
+BP > 180/120 mmHg WITHOUT acute end-organ damage.
+Management: Oral medications to lower BP over 24-48 hours.
+Do NOT lower BP too rapidly.
+
+6.2 Hypertensive Emergency
+BP > 180/120 mmHg WITH acute end-organ damage (encephalopathy, acute MI, pulmonary edema,
+dissecting aortic aneurysm, eclampsia).
+Management: IV antihypertensive therapy in ICU setting.
+Target: Reduce MAP by no more than 25% in first hour.
+Common IV agents: Labetalol, nicardipine, nitroprusside (if aortic dissection), hydralazine.
+
+SECTION 7: EVIDENCE SUMMARY
+
+Landmark Trials Referenced:
+- SPRINT Trial (2015): Intensive BP control target < 120 mmHg reduced CV events by 25%
+- ACCORD Trial (2010): Intensive BP control in T2DM showed no additional CV benefit
+- HOPE-3 Trial (2016): BP lowering in intermediate-risk patients reduced stroke by 27%
+- ONTARGET Trial (2008): Demonstrated ARB non-inferiority to ACEI
+- ALLHAT Trial (2002): Chlorthalidone vs ACEI vs CCB outcomes
+- VALUE Trial (2004): Amlodipine vs Valsartan in high-risk hypertension
+
+---
+Guideline Version 4.0 | International Hypertension Society | 2023
+For clinical use only. Individual patient decisions require professional medical judgment.

@@ -1,0 +1,175 @@
+CLINICAL TRIAL REPORT
+
+STUDY TITLE: A Phase III, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy
+and Safety of Metformin Extended-Release (XR) 2000 mg/day in Patients with Type 2 Diabetes Mellitus
+and Inadequate Glycemic Control
+
+PROTOCOL NUMBER: MET-XR-2023-001
+SPONSOR: Global Clinical Research Institute
+VERSION: 2.0 | DATE: January 15, 2023
+DOCUMENT TYPE: Clinical Trial Report
+
+SECTION 1: STUDY OVERVIEW
+
+1.1 Background and Rationale
+Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by insulin resistance and
+progressive beta-cell dysfunction, resulting in hyperglycemia. The global prevalence of T2DM has risen
+dramatically to approximately 537 million adults worldwide as of 2021, with projections reaching 784
+million by 2045 (IDF Diabetes Atlas, 2021).
+
+Metformin hydrochloride, a biguanide antihyperglycemic agent, remains the first-line pharmacological
+therapy for T2DM according to the American Diabetes Association (ADA) Standards of Medical Care.
+The mechanism of action primarily involves suppression of hepatic glucose production, improvement of
+insulin sensitivity, and enhanced peripheral glucose uptake.
+
+1.2 Objectives
+
+Primary Objective:
+To evaluate the efficacy of Metformin XR 2000 mg/day compared to placebo in reducing HbA1c
+(glycated hemoglobin) from baseline to Week 24 in adult patients with T2DM.
+
+Secondary Objectives:
+- To assess the effect on fasting plasma glucose (FPG) levels
+- To evaluate change in body weight from baseline
+- To assess impact on lipid profile (total cholesterol, LDL, HDL, triglycerides)
+- To evaluate overall safety and tolerability of Metformin XR
+
+SECTION 2: STUDY DESIGN
+
+2.1 Trial Design
+This was a Phase III, multicenter, randomized, double-blind, placebo-controlled, parallel-group study
+conducted at 45 investigational sites across 12 countries. The total study duration was 32 weeks:
+- 4-week screening period
+- 24-week double-blind treatment period
+- 4-week follow-up period
+
+2.2 Randomization
+Eligible patients were randomized in a 2:1 ratio (Metformin XR: placebo) using a centralized
+interactive web response system (IWRS). Randomization was stratified by:
+- Baseline HbA1c level (7.0-8.5% vs. >8.5-10.0%)
+- Prior antidiabetic medication use (naive vs. experienced)
+- Geographic region
+
+2.3 Blinding
+The study was double-blind. Both patients and investigators were blinded to treatment assignment.
+Identical placebo tablets were used to maintain blinding throughout the study period.
+
+SECTION 3: STUDY POPULATION
+
+3.1 Inclusion Criteria
+Patients were eligible for enrollment if they met ALL of the following criteria:
+1. Adult patients aged 18 to 75 years (inclusive)
+2. Confirmed diagnosis of Type 2 diabetes mellitus for at least 6 months prior to screening
+3. HbA1c between 7.0% and 10.0% at screening
+4. Body mass index (BMI) between 22 and 45 kg/m2
+5. Fasting plasma glucose (FPG) <= 270 mg/dL at screening
+6. Stable weight (< 5% change in body weight during the 3 months prior to screening)
+7. Ability to provide written informed consent
+8. Willingness to comply with all study procedures and protocol requirements
+
+3.2 Exclusion Criteria
+Patients were excluded if they met ANY of the following criteria:
+1. Type 1 diabetes mellitus or secondary diabetes
+2. Use of insulin or GLP-1 receptor agonists within 3 months prior to screening
+3. Estimated glomerular filtration rate (eGFR) < 45 mL/min/1.73m2
+4. Hepatic impairment (ALT or AST > 2.5 times upper limit of normal)
+5. History of lactic acidosis or any condition associated with increased risk of lactic acidosis
+6. Acute or chronic metabolic acidosis
+7. Radiological contrast studies within 48 hours prior to or following initiation of study drug
+8. Pregnancy or breastfeeding
+9. Active cardiovascular disease within 6 months (myocardial infarction, stroke, unstable angina)
+10. Chronic kidney disease Stage 4 or 5
+
+SECTION 4: STUDY MEDICATIONS
+
+4.1 Investigational Product
+Drug Name: Metformin Hydrochloride Extended-Release
+Dosage Form: Film-coated extended-release tablets
+Strength: 500 mg per tablet
+Dose: 2000 mg (4 x 500 mg tablets) once daily with the evening meal
+Route: Oral
+
+4.2 Dose Titration Schedule
+- Weeks 1-2: 500 mg once daily (1 tablet)
+- Weeks 3-4: 1000 mg once daily (2 tablets)
+- Weeks 5-6: 1500 mg once daily (3 tablets)
+- Week 7 onwards: 2000 mg once daily (4 tablets)
+
+4.3 Concomitant Medications
+Permitted: Antihypertensive agents, lipid-lowering therapy (stable for >= 3 months),
+thyroid replacement therapy, aspirin (<= 325 mg/day)
+Prohibited: Other antidiabetic agents, systemic corticosteroids, weight loss medications
+
+SECTION 5: EFFICACY RESULTS
+
+5.1 Primary Endpoint Results
+The primary endpoint was change in HbA1c from baseline to Week 24.
+
+Treatment Group    |  N   | Baseline HbA1c | Week 24 HbA1c | Mean Change | p-value
+Metformin XR       | 312  |   8.4 +/- 0.9% |   7.2 +/- 0.8%  |  -1.2 +/- 0.6%  | <0.001
+Placebo            | 158  |   8.3 +/- 0.8% |   8.1 +/- 0.9%  |  -0.2 +/- 0.5%  |
+
+Treatment difference (Metformin XR vs. Placebo): -1.0% (95% CI: -1.2 to -0.8; p < 0.001)
+
+5.2 Secondary Endpoint Results
+
+Fasting Plasma Glucose (FPG):
+- Metformin XR: Mean reduction of 32.4 mg/dL (p < 0.001)
+- Placebo: Mean reduction of 4.1 mg/dL
+
+Body Weight:
+- Metformin XR: Mean change -1.8 kg (95% CI: -2.3 to -1.3)
+- Placebo: Mean change -0.3 kg
+
+Proportion of patients achieving HbA1c < 7.0%:
+- Metformin XR: 47.8% (n=149/312)
+- Placebo: 18.4% (n=29/158)
+
+SECTION 6: SAFETY RESULTS
+
+6.1 Overview of Adverse Events
+Any adverse event: Metformin XR 68.3% vs Placebo 54.4%
+Treatment-related AEs: Metformin XR 38.5% vs Placebo 19.0%
+Serious adverse events (SAEs): Metformin XR 4.8% vs Placebo 5.1%
+Discontinuations due to AEs: Metformin XR 5.1% vs Placebo 2.5%
+
+6.2 Most Common Adverse Events (incidence >= 5% in either treatment group)
+
+Adverse Event               | Metformin XR (n=312) | Placebo (n=158)
+Nausea                      | 24.0%                | 7.6%
+Diarrhea                    | 19.2%                | 6.3%
+Vomiting                    | 12.5%                | 3.8%
+Abdominal discomfort        | 11.2%                | 5.7%
+Dyspepsia                   | 9.6%                 | 4.4%
+Flatulence                  | 7.7%                 | 3.2%
+Headache                    | 8.7%                 | 9.5%
+Nasopharyngitis             | 7.4%                 | 8.2%
+Upper respiratory infection | 5.8%                 | 6.3%
+
+6.3 Serious Adverse Events
+No cases of lactic acidosis were reported in either treatment group.
+Two deaths occurred during the study: one in the Metformin XR group (unrelated to study drug -
+traffic accident) and one in the placebo group (cardiac failure).
+
+6.4 Laboratory Findings
+No clinically meaningful changes in renal function (eGFR, serum creatinine) were observed.
+Vitamin B12 levels showed a modest decline in the Metformin XR group (mean -18 pg/mL vs +2 pg/mL
+for placebo), consistent with known mechanism of Metformin on B12 absorption.
+
+SECTION 7: CONCLUSIONS
+
+Metformin XR 2000 mg/day demonstrated statistically significant and clinically meaningful
+improvements in glycemic control compared to placebo in adult patients with T2DM and
+inadequate glycemic control:
+- HbA1c reduction of 1.0% greater than placebo (p < 0.001)
+- 47.8% of patients achieved HbA1c < 7.0% vs 18.4% with placebo
+- Significant reductions in FPG and body weight
+
+The safety profile was consistent with the well-established profile of Metformin, with
+gastrointestinal adverse events being the most common. No new safety signals were identified.
+The results support the use of Metformin XR 2000 mg/day as an effective and well-tolerated
+treatment option for T2DM patients requiring additional glycemic control.
+
+---
+DOCUMENT END
+Protocol Number: MET-XR-2023-001 | Version 2.0 | January 2023
