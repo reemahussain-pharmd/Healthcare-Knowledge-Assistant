@@ -363,30 +363,6 @@ Question Answering:
 
 ---
 
-## 🖼️ Screenshots
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏥 Healthcare Knowledge Assistant                                   │
-│ ─────────────────────────────────────────────────────────────────── │
-│  Sidebar:           │  Main Content Area                             │
-│  🏠 Home            │  [ Page content renders here ]                 │
-│  📄 Upload Docs     │                                                 │
-│  📚 Library         │                                                 │
-│  ❓ Ask Questions   │                                                 │
-│  🔬 Chunks Viewer   │                                                 │
-│  📊 Statistics      │                                                 │
-│  ─────────────────  │                                                 │
-│  Docs: 3            │                                                 │
-│  Chunks: 87         │                                                 │
-│  LLM: ✅ Connected  │                                                 │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-*(Add actual screenshots to `assets/` after running the application)*
-
----
-
 ## 🧪 Testing
 
 ```bash
